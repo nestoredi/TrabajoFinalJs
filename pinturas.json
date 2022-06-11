@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Africa mia",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 1,
+        "imagen": "pinturas/Africa.jpg"
+    },
+    {
+        "nombre": "El cobijo",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 2,
+        "imagen": "pinturas/El cobijo.jpg"
+    },
+    {
+        "nombre": "El muro de los lamentos",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 3,
+        "imagen": "pinturas/El muro de los lamentos.jpg"
+    },
+    {
+        "nombre": "Obelisco",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 4,
+        "imagen": "pinturas/obelisco.jpg"
+    }
+]

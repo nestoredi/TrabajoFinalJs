@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Lowtide",
+        "autor" : "Cesar",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 1,
+        "imagen": "pinCesar/lowtide.jpg"
+    },
+    {
+        "nombre": "Run",
+        "autor" : "Cesar",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 2,
+        "imagen": "pinCesar/run.jpg"
+    },
+    {
+        "nombre": "Ship",
+        "autor" : "Cesar",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 3,
+        "imagen": "pinCesar/ship.jpg"
+    },
+    {
+        "nombre": "Skatters",
+        "autor" : "Cinara",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 4,
+        "imagen": "pinCesar/skatters.jpg"
+    }
+]

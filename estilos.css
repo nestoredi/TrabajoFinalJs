@@ -1,0 +1,47 @@
+body{
+   margin-top: 25px;
+   padding: 50px; 
+  
+}
+
+#caja{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.divcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px;
+    width: 350px;
+    height: 500px;
+    margin: 15px;
+}
+.divcard img{
+    margin: 10px;
+    width: 300px;
+    height: 100%;
+    overflow: hidden;
+    
+}
+.position{
+    width: 250px !important;
+    padding: 15px;
+}
+h5 p {
+    color: aquamarine;
+}
+.pintura{
+    width: 700px;
+    height: 100%;
+}
+.cuadro{
+    display: inline-block;
+}
+.datos{
+    display: flex;
+    flex-direction: column;
+}

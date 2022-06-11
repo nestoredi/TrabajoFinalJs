@@ -1,0 +1,36 @@
+
+.caja{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    visibility: visible;
+}
+.sidebar{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    flex-direction: column;
+    visibility: hidden;
+    width: 25%;
+    position: absolute !important;
+    left: 50%;
+    top: 5px;
+   border: black solid 2px;
+   border-radius: 10px;
+}
+.active{
+    visibility: visible;
+    
+}
+.invisible{
+    visibility: hidden;
+}
+.medidasCard{
+    width: 75%;
+    height: 75%;
+}
+.carta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

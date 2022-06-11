@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "",
+        "autor" : "Ale",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 1,
+        "imagen": "ale/ale1.jpg"
+    },
+    {
+        "nombre": "",
+        "autor" : "Ale",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 2,
+        "imagen": "ale/ale2.jpg"
+    },
+    {
+        "nombre": "",
+        "autor" : "Ale",
+        "precio" : "9000",
+        "stock" : 1,
+        "id" : 3,
+        "imagen": "ale/ale3.jpg"
+    }
+   
+]
